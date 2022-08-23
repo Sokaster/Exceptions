@@ -1,0 +1,14 @@
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.exe
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.deps.json
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.runtimeconfig.json
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.runtimeconfig.dev.json
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.dll
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\bin\Debug\netcoreapp3.1\MistakesCheck.pdb
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.csproj.AssemblyReference.cache
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.AssemblyInfoInputs.cache
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.AssemblyInfo.cs
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.csproj.CoreCompileInputs.cache
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.dll
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.pdb
+C:\Users\danen\source\repos\MistakesCheck\MistakesCheck\obj\Debug\netcoreapp3.1\MistakesCheck.genruntimeconfig.cache
